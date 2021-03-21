@@ -30,4 +30,21 @@ router.get('/reception_flow', (req, res, next) => {
 
 })
 
+router.get('/getNodeTree', (req, res, next) => {
+
+    var file = path.join(__dirname, '../data/treeNode.json');
+    fs.readFile(file, 'utf-8', (err, data) => {
+        if (err) {
+            res.send({
+                'status': 1,
+                "message": "读取文件失败"
+            })
+        } else {
+            res.send(data)
+        }
+
+    })
+
+})
+
 module.exports = router;

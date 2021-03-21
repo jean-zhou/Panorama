@@ -1,0 +1,69 @@
+{
+    "appIdList": null,
+    "childern": [
+        {
+            "appIdList": null,
+            "childern": [
+                {
+                    "appIdList": null,
+                    "childern": [
+                        {
+                            "appIdList": null,
+                            "childern": [
+                                {
+                                    "appIdList": null,
+                                    "childern": null,
+                                    "createBy": "5320682",
+                                    "id": "2c53699efab14abbb98dbe3ad1f829ea",
+                                    "nameCn": "营销能力",
+                                    "nameEn": "marketing_capacity0101",
+                                    "offerings": [
+                                        {
+                                            "export": "532068",
+                                            "nameCn": "木木",
+                                            "nameEn": "mm"
+                                        }
+                                    ],
+                                    "parentId": "2861ac94e91f46a2bcef7c6167155f07",
+                                    "propertyId": "2c53699efab14abbb98dbe3ad1f829ea",
+                                    "startId": "2c53699efab14abbb98dbe3ad1f829ea"
+                                }
+                            ],
+                            "createBy": "5320682",
+                            "id": "2861ac94e91f46a2bcef7c6167155f07",
+                            "nameCn": "L3_2021",
+                            "nameEn": "L3_2021",
+                            "offerings": [],
+                            "parentId": "815825c6c292401eb4592164bedb40ab",
+                            "propertyId": "2861ac94e91f46a2bcef7c6167155f07",
+                            "startId": "2861ac94e91f46a2bcef7c6167155f07"
+                        }
+                    ],
+                    "createBy": "5320682",
+                    "id": "815825c6c292401eb4592164bedb40ab",
+                    "nameCn": "L2_2020",
+                    "nameEn": "L2_2020",
+                    "offerings": [],
+                    "parentId": "daf9e40d206d4f35ae81206327ee58a0",
+                    "propertyId": "815825c6c292401eb4592164bedb40ab",
+                    "startId": "815825c6c292401eb4592164bedb40ab"
+                }
+            ],
+            "createBy": "5320682",
+            "id": "daf9e40d206d4f35ae81206327ee58a0",
+            "nameCn": "L1_2019",
+            "nameEn": "L1_2019",
+            "offerings": [],
+            "parentId": "b2c7ee924ba74e87a3035b53768d51c8",
+            "propertyId": "daf9e40d206d4f35ae81206327ee58a0",
+            "startId": "daf9e40d206d4f35ae81206327ee58a0"
+        }
+    ],
+    "createBy": "5320682",
+    "id": "b2c7ee924ba74e87a3035b53768d51c8",
+    "nameCn": "木木全景树",
+    "nameEn": "mmOvervuewTree",
+    "offerings": [],
+    "propertyId": "b2c7ee924ba74e87a3035b53768d51c8",
+    "startId": "b2c7ee924ba74e87a3035b53768d51c8"
+}
